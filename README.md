@@ -5,7 +5,8 @@ AI Agent that visually audits landing pages for conversion friction using n8n an
 
 **An autonomous AI agent that audits "Above the Fold" experiences for higher conversion rates.**
 
-![Agent Architecture] (landing-page-analyzer.png)
+<img width="1005" height="400" alt="landing-page-analyzer" src="https://github.com/user-attachments/assets/b53ee8af-f249-4ff4-a35b-c447ab17993d" />
+
 
 ## 🚀 Overview
 
